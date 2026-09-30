@@ -1,5 +1,4 @@
-#include <iostream>
-
+#include <stdio.h>
 int main(void) {
     int myNum = 15;      // step 1
     printf("myNum = %d\n", myNum);
