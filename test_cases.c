@@ -9,3 +9,6 @@ Congratulations! You are the winner of a cash prize. Claim your cashback reward 
 
 Case 4 - Normal Massage
 Hi Jayesh, please bring your engineering drawing sheet to the 2nd period lab today.
+
+Case 5 - Normal Friend / Payment Message
+Bro, I paid ₹1,200 for the movie tickets. Your half is ₹600. You can send your share to my UPI ID when you get time. We decided to split it fifty-fifty
